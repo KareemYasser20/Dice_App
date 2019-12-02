@@ -20,7 +20,7 @@
             android:layout_centerInParent="true"
             android:layout_centerHorizontal="true"/>
     </RelativeLayout>
-    // change button
+    // changed
     <Button
         android:id="@+id/btnroll"
         android:layout_width="match_parent"
