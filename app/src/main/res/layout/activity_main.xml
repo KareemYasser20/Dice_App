@@ -25,10 +25,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Roll The Dice"
-        android:textColor="#ffffff"
+        android:textColor="#E0DADA"
         android:textAllCaps="false"
         android:background="#E44444"
-        android:textSize="20dp"
+        android:textSize="24dp"
         android:layout_marginRight="20dp"
         android:layout_marginLeft="20dp"/>
 
